@@ -1,0 +1,33 @@
+body{
+    margin: 0px; 
+    margin-right: 0px; 
+    margin-bottom: 0px; 
+    background-color: pink;
+}
+.giorgio{
+    color:tomato; 
+    margin-left: 118mm;
+}
+.amo{
+    text-shadow: grey;
+    text-align-last: center;
+}
+.leggi{
+    color: red;
+    text-align-last: center;
+}
+.gg{
+    text-align-last: center;
+}
+.gigino{
+    text-align: center;
+    border-left: 125mm;
+    margin-left: 120mm;
+}
+input, p{
+    font-weight: bold;
+}
+.nn{
+    color: brown;
+    text-align-last: center;
+}

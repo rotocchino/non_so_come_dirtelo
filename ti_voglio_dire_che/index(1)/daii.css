@@ -1,0 +1,25 @@
+body{
+    margin: 0px; 
+    margin-right: 0px; 
+    margin-bottom: 0px; 
+    background-color: pink;
+}
+.leggi{
+    color: red;
+    text-align-last: center;
+}
+.pierino{
+    color:brown;
+    text-align-last: center;
+}
+.pino{
+    text-align-last: center;
+}
+.lulu{
+    margin-left: 120mm;
+    text-transform: none;
+    font-size: 20px;
+}
+#nonno{
+    position: fixed;
+}
