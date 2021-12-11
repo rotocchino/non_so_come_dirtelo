@@ -19,6 +19,8 @@ body{
     margin-left: 120mm;
     text-transform: none;
     font-size: 20px;
+    background-color: black;
+    width: 40px;
 }
 #nonno{
     position: fixed;
