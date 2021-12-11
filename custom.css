@@ -1,5 +1,5 @@
 head{
-    text-align-last: center;
+    text-align: center;
 }
 
 
@@ -9,44 +9,39 @@ body{
     margin-right: 0px; 
     margin-bottom: 0px; 
     background-color: pink;
-    text-align-last: center;
+    text-align: center;
+
 }
 .giorgio{
     color:tomato; 
     margin-left: 118mm;
+    text-align: center;
 }
 .amo{
     margin-left: auto;
     border-left: auto;
-    text-align-last: center;
+    text-align: center;
 }
 .leggi{
     color: red;
-    text-align-last: center;
-    text-align-last: center;
+
 }
 .gg{
-    text-align-last: center;
+    text-align: center;
 }
 .gigino{
     text-align: center;
-    border-left: 125mm;
-    text-align: center;
-    text-align-last: center;
-    margin-left: auto;
-    border-left: auto;
-    margin-left: 120mm;
+
 }
 input, p{
     font-weight: bold;
     margin-left: auto;
     border-left: auto;
     text-align: center;
-    text-align-last: center;
 }
 .nn{
     color: brown;
-    text-align-last: center;
+    text-align: center;
 }
 .amore{
     margin-left: auto;
@@ -54,5 +49,21 @@ input, p{
     text-align: center;
     text-align-last: center;
     margin-left: 120mm;
-    text-align-last: center;
+}
+@media (max-width: 1200px) {
+}
+
+@media (max-width: 980px) { 
+
+
+}
+
+@media (max-width: 767px) {
+
+
+}
+
+@media (max-width: 480px) {
+    text-transform: animation: border-right: border-right: ;;;;
+
 }
