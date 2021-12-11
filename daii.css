@@ -22,6 +22,5 @@ body{
 }
 #nonno{
     position: fixed;
-    background-color:grey;
-    width: 30mm;
+    background-color:rgb(129, 156, 158);
 }
