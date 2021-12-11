@@ -10,10 +10,7 @@ body{
 }
 .amo{
     text-shadow: grey;
-    margin-left: auto;
-    border-left: auto;
-    text-align: center;
-    text-align-last: center;
+    margin-left: center;
     margin-left: 110mm;
 }
 .leggi{
