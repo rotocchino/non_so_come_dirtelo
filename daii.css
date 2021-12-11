@@ -20,12 +20,8 @@ body{
 .lulu{
     margin-left: 120mm;
     text-transform: none;
-    font-size: 24px;
-    text-align-last: center;
 }
 #nonno{
     position: fixed;
     background-color:rgb(129, 156, 158);
-    font-style: 30px;
-    text-align-last: center;
 }
