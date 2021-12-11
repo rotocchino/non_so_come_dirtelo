@@ -22,10 +22,18 @@ body{
 .gigino{
     text-align: center;
     border-left: 125mm;
+    text-align: center;
+    text-align-last: center;
+    margin-left: auto;
+    border-left: auto;
     margin-left: 120mm;
 }
 input, p{
     font-weight: bold;
+    margin-left: auto;
+    border-left: auto;
+    text-align: center;
+    text-align-last: center;
 }
 .nn{
     color: brown;
