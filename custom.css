@@ -9,7 +9,8 @@ body{
     margin-left: 118mm;
 }
 .amo{
-    margin: auto;
+    margin-left: auto;
+    border-left: auto;
 }
 .leggi{
     color: red;
