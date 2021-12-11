@@ -11,9 +11,11 @@ body{
 .amo{
     margin-left: auto;
     border-left: auto;
+    text-align-last: center;
 }
 .leggi{
     color: red;
+    text-align-last: center;
     text-align-last: center;
 }
 .gg{
@@ -45,4 +47,5 @@ input, p{
     text-align: center;
     text-align-last: center;
     margin-left: 120mm;
+    text-align-last: center;
 }
