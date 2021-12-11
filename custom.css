@@ -10,6 +10,9 @@ body{
 }
 .amo{
     text-shadow: grey;
+    margin-left: auto;
+    border-left: auto;
+    text-align: center;
     text-align-last: center;
 }
 .leggi{
@@ -37,5 +40,11 @@ input, p{
 }
 .nn{
     color: brown;
+    text-align-last: center;
+}
+.amore{
+    margin-left: auto;
+    border-left: auto;
+    text-align: center;
     text-align-last: center;
 }
