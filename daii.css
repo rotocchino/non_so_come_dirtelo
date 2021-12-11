@@ -23,4 +23,5 @@ body{
 #nonno{
     position: fixed;
     background-color:rgb(129, 156, 158);
+    font-style: 30px;
 }
