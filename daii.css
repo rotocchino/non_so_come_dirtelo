@@ -23,12 +23,15 @@ body{
 .miei{
     text-align: center;
     text-transform: uppercase;
-    font: caption;
-    font-family: cursive;
+    font:message-box;
+    font-family: fantasy;
 }
 #noo{
     position: fixed;
     bottom: auto;
+}
+#social{
+    background-color: lavenderblush;
 }
 @media (max-width: 1200px) {
 }
@@ -44,6 +47,11 @@ body{
 }
 
 @media (max-width: 480px) {
-    text-transform: animation: border-right: border-right: ;;;;
+    head{ 
+        text-align: center;
+        text-transform: none;
+        text-rendering: geometricPrecision;
+        text-shadow: 3px;
+    }
 
 }
