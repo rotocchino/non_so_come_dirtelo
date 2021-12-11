@@ -17,7 +17,19 @@ body{
 .pino{
     text-align-last: center;
 }
-#nonno{
+.miei{
+    text-align-last: center;
+    text-transform: uppercase;
+    font: caption;
+    font-family: cursive;
+}
+.nonno{
     position: fixed;
-    background-color:rgb(129, 156, 158);
+    text-align-last: center;
+    margin-left: 130mm;
+}
+.nonnino{
+    position: fixed;
+    text-align-last: center;
+    margin-left: 110mm;
 }
