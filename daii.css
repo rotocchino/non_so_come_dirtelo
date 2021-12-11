@@ -3,6 +3,7 @@ body{
     margin-right: 0px; 
     margin-bottom: 0px; 
     background-color: pink;
+    text-align-last: center;
 }
 .leggi{
     color: red;
