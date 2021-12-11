@@ -8,6 +8,7 @@ body{
 .leggi{
     color: red;
     text-align-last: center;
+    text-align-last: center;
 }
 .pierino{
     color:brown;
@@ -21,9 +22,12 @@ body{
     text-transform: none;
     font-size: 24px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    text-align-last: center;
 }
 #nonno{
     position: fixed;
     background-color:rgb(129, 156, 158);
     font-style: 30px;
+    text-align-last: center;
+    text-transform: none;
 }
