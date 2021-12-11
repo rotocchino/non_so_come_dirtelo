@@ -14,6 +14,7 @@ body{
     border-left: auto;
     text-align: center;
     text-align-last: center;
+    margin-left: 120mm;
 }
 .leggi{
     color: red;
@@ -47,4 +48,5 @@ input, p{
     border-left: auto;
     text-align: center;
     text-align-last: center;
+    margin-left: 120mm;
 }
